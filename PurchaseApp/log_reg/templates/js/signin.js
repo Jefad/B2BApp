@@ -1,0 +1,1 @@
+const login_form = document.getElementsByClassName('form-signin')
